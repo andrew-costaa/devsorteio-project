@@ -27,6 +27,6 @@
 <br>
 <p>A interface foi projetada para se adaptar a diferentes tamanhos de tela, garantindo uma boa experiência tanto em computadores quanto em dispositivos móveis.</p>
 
-<h3>Esse foi um projeto que eu aprendi no <a href="aulas.devclub.com.br">DevClub</a></h3>
+<h3>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br">DevClub</a></h3>
 
 <img src="https://github.com/andrew-costaa/devsorteio-project/blob/master/assets/DevSorteio.png?raw=true"/>
