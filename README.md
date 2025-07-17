@@ -10,7 +10,7 @@
 <br>
 - CSS3
 <br>
-- JavaScript (Vanilla JS)
+- JavaScript
 <br>
 <br>
 <h2>💡 Funcionalidades:</h2>
